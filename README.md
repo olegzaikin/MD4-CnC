@@ -20,10 +20,11 @@ parallel_cubes - multirhreaded implementation of the cubing phase of Cube-and-Co
 
 ### Citation
 If you use these sources, please cite the paper:
+```
 @inproceedings{Zaikin-IJCAI22,
   author    = {Oleg Zaikin},
   title     = {Inverting 43-step {MD4} via {Cube-and-Conquer}},
   booktitle = {IJCAI-ECAI 2022},
-  pages     = {in press},
   year      = {2022}
 }
+```
