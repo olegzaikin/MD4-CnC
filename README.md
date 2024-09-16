@@ -8,9 +8,11 @@ Oleg Zaikin. Inverting Cryptographic Hash Functions via Cube-and-Conquer // JAIR
 ### Directories overview
 
 /cnfs_ijcai - CNFs used in the IJCAI experiments, as well as TA-programs for the Transalg tool.
+
 /cnfs_jair - CNFs used in the JAIR experiments, as well as TA-programs for the Transalg tool.
 
 /src_ijcai - IJCAI sources.
+
 /src_jair - JAIR sources.
 
 /solutions_jair - solutions found in the JAIR experiments.
