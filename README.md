@@ -1,6 +1,8 @@
 ### About
 Sources and benchmarks for the following papers:
+
 Oleg Zaikin. Inverting 43-step MD4 via Cube-and-Conquer // In IJCAI 2022.
+
 Oleg Zaikin. Inverting Cryptographic Hash Functions via Cube-and-Conquer // JAIR 2024.
 
 ### Directories overview
